@@ -21,7 +21,7 @@ Previsões emitidas no mês 8.
 Previsão Influenciada:
 - Município: São Paulo
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 05
+- Mês previsto: 07
 
 
 Fator Influenciador: O tempo. Elevada correlação com o tempo ou tendência. 
